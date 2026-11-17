@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.18.0"},"description":"Simple online Gomoku (five-in-a-row) game: Node.js + WebSocket server, static client. Deploy as a Web Service on Abasthan.","engines":{"node":">=18"},"main":"server.js","name":"gomoku-online","scripts":{"start":"node server.js"},"version":"1.0.0"}
